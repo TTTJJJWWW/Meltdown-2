@@ -1,4 +1,10 @@
 //creds to cloud rise up
+
+// to compile run this command in terminal 
+// gcc -O2 -std=gnu11 TestLinux.s TestLinux.c -o TestLinux && ./TestLinux
+//     ^Optimize 
+
+
 #include <stdint.h>
 #include <stdio.h>
 #include <stdlib.h>
